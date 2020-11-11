@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Beetlejuice",
+        "year": "1988",
+        "director": "Tim Burton",
+        "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page"
+    },
+    {
+        "id": 2,
+        "title": "The Cotton Club",
+        "year": "1984",
+        "director": "Francis Ford Coppola",
+        "actors": "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee"
+    },
+    {
+        "id": 3,
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "director": "Frank Darabont",
+        "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler"
+    },
+    {
+        "id": 4,
+        "title": "Crocodile Dundee",
+        "year": "1986",
+        "director": "Peter Faiman",
+        "actors": "Paul Hogan, Linda Kozlowski, John Meillon, David Gulpilil"
+    },
+    {
+        "id": 5,
+        "title": "Valkyrie",
+        "year": "2008",
+        "director": "Bryan Singer",
+        "actors": "Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson"
+    }
+]
